@@ -1,6 +1,6 @@
 # Stack Overflow Tag Prediction
 
-![Stack Overflow Logo](stack_overflow_logo.png)
+![Stack Overflow Logo](stack-over-flow.jpg)
 
 ## Overview
 
